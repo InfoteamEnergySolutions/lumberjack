@@ -1,4 +1,4 @@
-module lumberjack
+module github.com/InfoteamEnergySolutions/lumberjack
 
 go 1.13
 
